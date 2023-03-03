@@ -2,9 +2,6 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
-
-
-
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
@@ -22,7 +19,7 @@
 }
 
 .mdl-textfield__error {
-  color: rgba(3, 36, 107, 0.245);
+  color: rgba(3, 36, 107, 24.5%);
 }
 
 .page-content {
