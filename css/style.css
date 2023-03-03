@@ -19,7 +19,7 @@
 }
 
 .mdl-textfield__error {
-  color: rgba(3, 36, 107, 24.5%);
+  color: red;
 }
 
 .page-content {
@@ -38,7 +38,7 @@ body {
   background-color: burlywood;
 }
 
-.mdl-layout-header {
+.mdl-layout-title {
   padding-left: 15pt;
   padding-right: 25pt;
 }
